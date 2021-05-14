@@ -2,7 +2,7 @@
 
 ## 🧔 About Me
 
-- 🔭 I’m currently working on [css art gallery](https://github.com/salil-nail/css-art-gallery)
+- 🔭 I’m currently working on [NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
 
 <!-- - 🌱 I’m currently learning **React, Java**
 
@@ -18,13 +18,13 @@
 
 - 📫 Contact me **[here](apoorva0107@gmail.com)**
 
-- 📄 My Resume [https://drive.google.com/file/d/1-XJSBC57WMh3hWF_NySwpcMvzBAmUDfF/view?usp=sharing](https://drive.google.com/file/d/1-XJSBC57WMh3hWF_NySwpcMvzBAmUDfF/view?usp=sharing)
+- 📄 My Resume [https://drive.google.com/file/d/1-XJSBC57WMh3hWF_NySwpcMvzBAmUDfF/view?usp=sharing](https://drive.google.com/file/d/1p0SqaXeeZZgQiToO94JIHNz8KgmOJxJS/view?usp=sharing)
 
 <!-- - ⚡ Fun fact **People often call me an alien** -->
 
 ## ✍ My Work
 
-[![Jaagrav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apoorva0107&show_icons=true&theme=dark)](https://github.com/Apoorva0107)
+[![Apoorva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apoorva0107&show_icons=true&theme=dark)](https://github.com/Apoorva0107)
 
 <!-- Here are some of my projects on Github that I am proud of: -->
 
