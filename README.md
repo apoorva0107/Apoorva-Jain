@@ -2,7 +2,7 @@
 
 ## 👩🏽 About Me
 
-- 🔭 I’m currently working on [NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
+- 🔭 I’m currently working on [Libro](https://github.com/infiniteoverflow/Libro)
 
 <!-- - 🌱 I’m currently learning **React, Java**
 
@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **React, Vue, Web Development and UI/UX** -->
 
-- 📫 Contact me **[here](apoorva0107@gmail.com)**
+- 📫 Contact me [here](apoorva0107@gmail.com)
 
 - 📄 My Resume [https://drive.google.com/file/d/1-XJSBC57WMh3hWF_NySwpcMvzBAmUDfF/view?usp=sharing](https://drive.google.com/file/d/1p0SqaXeeZZgQiToO94JIHNz8KgmOJxJS/view?usp=sharing)
 
