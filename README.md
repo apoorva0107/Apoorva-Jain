@@ -1,6 +1,6 @@
 ![Apoorva Jain's-cover](./cover-image.png)
 
-## 🧔 About Me
+## 👩🏽 About Me
 
 - 🔭 I’m currently working on [NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
 
