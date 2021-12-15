@@ -18,7 +18,7 @@
 
 - 📫 Contact me at apoorva0107@gmail.com
 
-- 📄 My Resume [https://drive.google.com/file/d/1-XJSBC57WMh3hWF_NySwpcMvzBAmUDfF/view?usp=sharing](https://drive.google.com/file/d/1p0SqaXeeZZgQiToO94JIHNz8KgmOJxJS/view?usp=sharing)
+- 📄 My Resume [https://drive.google.com/file/d/1MAU_FbLKeezgYrZSaIgNWqkD1-__cLMI/view?usp=sharing](https://drive.google.com/file/d/1MAU_FbLKeezgYrZSaIgNWqkD1-__cLMI/view?usp=sharing)
 
 <!-- - ⚡ Fun fact **People often call me an alien** -->
 
